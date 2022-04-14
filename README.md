@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### I am KASAME AMNUAYROTCHANACHINDA.
+### 🤔 Interest and Activities: Coding, Artificial Intelligence, Quantum Physics, Basketball, Novel
+### OBJECTIVS: Applying Artificial Intelligence to solve problem in real life and Integrating Science knowledge to A.I. for building new technology and application though creative ideas.
 
 <!--
 **kasame62/kasame62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
